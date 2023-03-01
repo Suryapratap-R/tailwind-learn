@@ -8,7 +8,7 @@ module.exports = {
           raw: "(min-aspect-ratio: 3/2)",
         },
         tallscreen: {
-          raw: "(min-aspect-ratio: 13/20)",
+          raw: "(max-aspect-ratio: 13/20)",
         },
       },
       keyframes: {
